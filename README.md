@@ -24,6 +24,7 @@ Image 1                       | Image 2
 > If you want to see this project build with live coding, checkout the detailed video series on my youtube channel https://www.youtube.com/@abhayprince
 
 > [Part -1 Connect a .NET MAUI App to SQLite Database Step by Step Guide - YouTube](https://youtu.be/7pO3A8VvtRM)
+> 
 > [Part -2 Connect a .NET MAUI App to SQLite Database Step by Step Guide - YouTube](https://youtu.be/Jd05P1jy_C4)
 
 -------------------------------
