@@ -21,7 +21,8 @@ Image 1                       | Image 2
 - Congratulations, MAUISQLite  app is running
 ---------------------------------------
 ## Live Coding Video Series of MAUISQLite
-> If you want to see this project build with live coding, checkout the detailed video series on my youtube channel
+> If you want to see this project build with live coding, checkout the detailed video series on my youtube channel https://www.youtube.com/@abhayprince
+
 > [Part -1 Connect a .NET MAUI App to SQLite Database Step by Step Guide - YouTube](https://youtu.be/7pO3A8VvtRM)
 
 -------------------------------
