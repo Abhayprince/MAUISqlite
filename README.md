@@ -1,14 +1,14 @@
 # MAUISqlite - Connecting .NET MAUI app to SQLite Database
 A Small .Net MAUI Project to demonstrate how we can connect a .Net MAUI App to SQLite database.  
 
-In this small project, you will see, SQLite CRUD operation with using MVVM (Community Toolkit MVVM)
+In this small project, you will see, SQLite CRUD operation with .Net MAUI using MVVM (Community Toolkit MVVM)
 
 
 > MAUISQLite Connecting .NET MAUI app to SQLite Database - .Net 7
 
-
-![MAUISqlite-1](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.37.28.png)
-![MAUISqlite-2](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.40.19.png)
+Image 1                       | Image 2
+:-----------------------------: | :--------------------------:
+![MAUISqlite-1](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.37.28.png) | ![MAUISqlite-2](https://raw.githubusercontent.com/Abhayprince/MAUISqlite/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-04-16%20at%2017.40.19.png)
 
 ## To Run Locally
 - Clone the Repo
