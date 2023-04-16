@@ -4,7 +4,7 @@ A Small .Net MAUI Project to demonstrate how we can connect a .Net MAUI App to S
 In this small project, you will see, SQLite CRUD operation with .Net MAUI using MVVM (Community Toolkit MVVM)
 
 
-> MAUISQLite Connecting .NET MAUI app to SQLite Database - .Net 7
+> MAUISQLite - Connecting .NET MAUI app to SQLite Database - .Net 7
 
 Image 1                       | Image 2
 :-----------------------------: | :--------------------------:
